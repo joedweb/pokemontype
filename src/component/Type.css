@@ -1,0 +1,16 @@
+.type-container {
+    display: flex;
+    flex-direction: column;
+    border:  1px solid gray;
+   padding: 25px;
+   justify-content: center;
+   background-color: white;
+   color: yellow;
+
+}
+  
+
+  
+  .img {
+    border-radius: 50%;
+  }
